@@ -2,6 +2,8 @@
 
 Basic Speech to Text App in Flutter
 
+![Screenshot](SS.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
