@@ -2,6 +2,12 @@
 
 Basic Speech to Text App in Flutter
 
+Mic Button starts recording and processing the audio
+
+Cancel button to start the recording afresh
+
+Stop Button to lay out the text on the screen
+
 ![Screenshot](SS.png)
 
 ## Getting Started
