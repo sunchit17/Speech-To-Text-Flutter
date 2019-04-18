@@ -6,7 +6,7 @@ Mic Button starts recording and processing the audio
 
 Cancel button to start the recording afresh
 
-Stop Button to lay out the text on the screen
+Stop Button to keep the text on the screen
 
 ![Screenshot](SS.png)
 
